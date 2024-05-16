@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibrary", "ShapeLibrary\ShapeLibrary.csproj", "{0C2993EF-4855-45DC-A06F-B5AE0407E233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibrary.Tests", "ShapeLibrary.Tests\ShapeLibrary.Tests.csproj", "{1D5D1A84-A2C7-4E27-B9BA-8385A934E5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2993EF-4855-45DC-A06F-B5AE0407E233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2993EF-4855-45DC-A06F-B5AE0407E233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2993EF-4855-45DC-A06F-B5AE0407E233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2993EF-4855-45DC-A06F-B5AE0407E233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5D1A84-A2C7-4E27-B9BA-8385A934E5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5D1A84-A2C7-4E27-B9BA-8385A934E5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5D1A84-A2C7-4E27-B9BA-8385A934E5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5D1A84-A2C7-4E27-B9BA-8385A934E5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
